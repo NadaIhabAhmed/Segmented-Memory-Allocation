@@ -8,10 +8,10 @@ The project is implemented using C#.
 <h2>Project Files</h2>
 <ul>
   <li>
-    <a href="">Codes</a>
+    <a href="https://github.com/NadaIhabAhmed/Segmented-Memory-Allocation/tree/master/Memory%20Allocation">Codes</a>
   </li>
   <li>
-    <a href="">Executable File</a>
+    <a href="https://github.com/NadaIhabAhmed/Segmented-Memory-Allocation/tree/master/EXE%20File">Executable File</a>
   </li>
   <li>
     <a href="">Report</a>
