@@ -1,0 +1,52 @@
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe.config
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.pdb
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form1.resources
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Properties.Resources.resources
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.exe
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.pdb
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form2.resources
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form3.resources
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe.config
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.pdb
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csprojAssemblyReference.cache
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form1.resources
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form2.resources
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form3.resources
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Properties.Resources.resources
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.GenerateResource.cache
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.CoreCompileInputs.cache
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.exe
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.pdb
+D:\Nada\تالتة كهرباء حاسبات\Second Term\Operating Systems\Project\Project 2\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form4.resources
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe.config
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.pdb
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form1.resources
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form2.resources
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form3.resources
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form4.resources
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Properties.Resources.resources
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.exe
+C:\Users\user\Desktop\Memory\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.pdb
+C:\Users\pc\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form4.resources
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe.config
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.pdb
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csprojAssemblyReference.cache
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form1.resources
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form2.resources
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form3.resources
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form4.resources
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Properties.Resources.resources
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.GenerateResource.cache
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.exe
+C:\Users\Nada\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.pdb
