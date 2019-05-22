@@ -13,9 +13,6 @@ The project is implemented using C#.
   <li>
     <a href="https://github.com/NadaIhabAhmed/Segmented-Memory-Allocation/tree/master/EXE%20File">Executable File</a>
   </li>
-  <li>
-    <a href="">Report</a>
-  </li>
 </ul>
 
 <h2>Authors</h2>
